@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF3D1946-5B43-458E-8EA4-190A7FA90EB7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9B1D7ED7-D020-45DF-AEF5-BB068BD562C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParseDemoApp/View Controllers/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "-onSignUp:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9B1D7ED7-D020-45DF-AEF5-BB068BD562C7 - 689c0e3ddf2188b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController onSignUp:]"
+                  moduleName = "ParseDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fdadzie20/Desktop/ParseDemoApp/ParseDemoApp/View%20Controllers/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "790">
+               </Location>
+               <Location
+                  uuid = "9B1D7ED7-D020-45DF-AEF5-BB068BD562C7 - ce6c4ccea8c8f598"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__27-[ViewController onSignUp:]_block_invoke_3"
+                  moduleName = "ParseDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fdadzie20/Desktop/ParseDemoApp/ParseDemoApp/View%20Controllers/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "9B1D7ED7-D020-45DF-AEF5-BB068BD562C7 - 41b63c070cc9ef94"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_e8_32s"
+                  moduleName = "ParseDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fdadzie20/Desktop/ParseDemoApp/ParseDemoApp/View%20Controllers/ViewController.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "067C4ACE-A343-4DB8-959B-CA2D1369B557"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParseDemoApp/View Controllers/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "-onSignUp:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "703B55F0-17D5-419B-A887-0E56E2AAD03D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ParseDemoApp/View Controllers/ViewController.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "-onSignUp:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
